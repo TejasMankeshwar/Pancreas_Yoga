@@ -1,0 +1,8 @@
+Model Information:
+* title:	Female Body (Decimated)
+* source:	https://sketchfab.com/3d-models/female-body-decimated-71bc2f69a1214914ae9353a4c13b5f52
+* author:	Womanda (https://sketchfab.com/Womanda)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

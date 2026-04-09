@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", "Plus Jakarta Sans", sans-serif;
+  --color-warm-white: #ffffff;
+  --color-warm-cream: #faf8f5;
+  --color-warm-cream-dark: #f0ebe1;
+  --color-stone-900: #1c1917;
+  --color-accent-copper: #c27a5d;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-warm-cream); /* default background */
+  overflow-x: hidden;
+  color: var(--color-stone-900);
+}
+
+canvas {
+  touch-action: none;
+}
