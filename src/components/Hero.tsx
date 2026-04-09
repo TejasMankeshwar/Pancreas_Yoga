@@ -7,15 +7,13 @@ export default function Hero() {
             Anatomical Visualization
           </p>
           <h1 className="text-5xl md:text-6xl font-bold tracking-tight text-stone-900 mb-6 drop-shadow-sm">
-            The Human Pancreas
+            Pancreas: The Master of Homeostasis
           </h1>
           <p className="text-lg text-stone-600 mb-6 leading-relaxed">
-            Nestled deep within the abdomen, the pancreas is a dual-function powerhouse. 
-            It acts as both an endocrine gland—secreting essential hormones like insulin and glucagon directly into the bloodstream—and an exocrine gland, producing digestive enzymes vital for breaking down nutrients.
+            Biological homeostasis is the maintenance of a stable internal environment. The pancreas plays a critical role in this process by monitoring and adjusting blood glucose levels with pinpoint precision.
           </p>
           <p className="text-lg text-stone-600 leading-relaxed">
-            Understanding its architecture is key to studying metabolic regulation and gastrointestinal health. 
-            Scroll down to explore a fully interactive, labeled 3D model of this extraordinary organ.
+            By coordinating the release of Insulin and Glucagon, the pancreas ensures that every cell in your body has the energy it needs to thrive.
           </p>
         </div>
         
